@@ -55,7 +55,7 @@ The `E-commerce Application` is a comprehensive system for managing an online st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AmerMahfudh/Ecommerce-.git
    cd your-repository
 
 
